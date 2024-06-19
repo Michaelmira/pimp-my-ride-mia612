@@ -74,6 +74,7 @@
 	},
 	"dependencies": {
 		"bootstrap": "^5.3.3",
+		"cloudinary": "^2.2.0",
 		"prop-types": "^15.6.1",
 		"react": "^16.8.4",
 		"react-bootstrap": "^2.10.2",
