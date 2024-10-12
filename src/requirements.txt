@@ -3,7 +3,7 @@ certifi==2020.12.5
 click==7.1.2
 cloudinary==1.24.0
 flask==1.1.2
-flask-admin @ git+https://github.com/flask-admin/flask-admin.git@1.5.7
+flask-admin @ git+https://github.com/flask-admin/flask-admin.git
 flask-cors==3.0.10
 flask-migrate==2.6.0
 flask-sqlalchemy==2.4.4
